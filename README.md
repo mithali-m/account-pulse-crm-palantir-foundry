@@ -113,6 +113,3 @@ This repository includes screenshots of:
 
 ## Technical Skills Relevance
 This project demonstrates hands-on experience with **Palantir Foundry** for building data pipelines, ontology-backed applications, and interactive business workflows.
-
-## Author
-Mithali Manjunath
